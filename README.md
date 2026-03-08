@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Dhushyandh;Full+Stack+Developer;MERN+Stack+Developer;Passionate+Web+Developer;Always+Learning+New+Things" />
+</h1>
+
 # Hi 👋 I'm Dhushyandh
 
 💻 Computer Science Engineering Student (3rd Year)  
