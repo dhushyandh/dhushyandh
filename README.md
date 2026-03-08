@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Dhushyandh;Full+Stack+Developer;MERN+Stack+Developer;Passionate+Web+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Dhushyandh;Full+Stack+Developer;MERN+Stack+Developer;Passionate+Web+Developer;" />
 </h1>
 
 💻 Computer Science Engineering Student (3rd Year)  
@@ -70,6 +70,58 @@ Features:
 - Shopping cart
 - Checkout system
 - Payment method integration
+
+---
+
+🗳️ Online Voting System
+
+Developed a secure web-based voting platform.
+
+Allows users to register, login, and cast votes digitally.
+
+Admin panel to manage candidates and view results.
+
+Focused on authentication and vote integrity.
+
+Tech Used:
+           HTML | CSS | JavaScript | Node.js | Express | MongoDB
+
+---
+
+🌦️ Weather App
+
+A responsive web application that shows real-time weather data.
+
+Fetches data from a Weather API.
+
+Displays:
+
+Temperature
+
+Humidity
+
+Weather conditions
+
+City-based search.
+
+Tech Used:
+           HTML | CSS | JavaScript | Weather API 
+
+---
+
+✅ To-Do List App
+
+A productivity web app to manage daily tasks.
+
+Features include:
+
+Add tasks
+
+Delete tasks
+
+Mark tasks as completed
+
+Local storage support.
 
 ---
 
