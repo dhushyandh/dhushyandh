@@ -51,84 +51,61 @@
 
 ## 🔥 Featured Projects
 
+### 📊 Project Workspace Management ⭐
+A full-stack collaborative project management platform with task tracking, team collaboration, dashboards, and role-based access.
+
+**Tech:** React • Express.js • PostgreSQL • JWT • Tailwind CSS
+
+---
+
 ### 🛒 CampusCart
-Student marketplace platform for buying and selling products inside campus.
+A campus marketplace where students can securely buy and sell products within their institution.
 
-Features:
-- Product listing
-- Department wise filter
-- Price range filter
-- Student marketplace system
+**Features**
+- Student marketplace
+- Product listings
+- Department-wise filtering
+- Price range filtering
 
----
-
-### 🛍 VIPStore
-Full E-commerce project.
-
-Features:
-- Product catalog
-- Shopping cart
-- Checkout system
-- Payment method integration
+**Tech:** React • Node.js • Express.js • MongoDB
 
 ---
 
-🗳️ Online Voting System
+### 🗳️ Online Voting System
+A secure web-based voting platform with authentication, digital voting, and an admin dashboard.
 
-Developed a secure web-based voting platform.
+**Features**
+- User registration & login
+- Secure online voting
+- Candidate management
+- Live election results
 
-Allows users to register, login, and cast votes digitally.
-
-Admin panel to manage candidates and view results.
-
-Focused on authentication and vote integrity.
-
-Tech Used:
-           HTML | CSS | JavaScript | Node.js | Express | MongoDB
+**Tech:** Node.js • Express.js • MongoDB • HTML • CSS • JavaScript
 
 ---
 
-🌦️ Weather App
+### 🌦️ Weather App
+A responsive application that provides real-time weather information using a Weather API.
 
-A responsive web application that shows real-time weather data.
+**Features**
+- City-based search
+- Live weather updates
+- Temperature & humidity
+- Weather conditions
 
-Fetches data from a Weather API.
-
-Displays:
-
-Temperature
-
-Humidity
-
-Weather conditions
-
-City-based search.
-
-Tech Used:
-           HTML | CSS | JavaScript | Weather API 
+**Tech:** HTML • CSS • JavaScript • Weather API
 
 ---
 
-✅ To-Do List App
+### ✅ To-Do List App
+A lightweight productivity application for managing daily tasks.
 
-A productivity web app to manage daily tasks.
+**Features**
+- Add & delete tasks
+- Mark tasks as completed
+- Local storage support
 
-Features include:
-
-Add tasks
-
-Delete tasks
-
-Mark tasks as completed
-
-Local storage support.
-
----
-
-### 🎬 Spotify Clone
-Responsive Spotify UI clone built using HTML, CSS and JavaScript.
-
----
+**Tech:** HTML • CSS • JavaScript
 
 ### 🌐 Portfolio Website
 My personal portfolio website.
