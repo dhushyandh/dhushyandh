@@ -54,7 +54,7 @@
 ### 📊 Project Workspace Management ⭐
 A full-stack collaborative project management platform with task tracking, team collaboration, dashboards, and role-based access.
 
-**Tech:** React • Express.js • PostgreSQL • JWT • Tailwind CSS
+**Tech:** React • Express.js • PostgreSQL • Clerk • Inngest
 
 ---
 
@@ -106,6 +106,8 @@ A lightweight productivity application for managing daily tasks.
 - Local storage support
 
 **Tech:** HTML • CSS • JavaScript
+
+---
 
 ### 🌐 Portfolio Website
 My personal portfolio website.
