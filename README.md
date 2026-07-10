@@ -1,147 +1,211 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Dhushyandh;Full+Stack+Developer;MERN+Stack+Developer;Passionate+Web+Developer;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Dhushyandh</h1>
 
-💻 Computer Science Engineering Student (3rd Year)  
-🚀 Aspiring Full Stack Developer (MERN Stack)  
-🌱 Currently Learning Advanced JavaScript & Backend Development  
-📍 India  
+<h3 align="center">
+Full Stack Developer • Cloud Engineer • AI Enthusiast
+</h3>
+
+<p align="center">
+I build scalable web applications, cloud-native solutions, and AI-powered products.
+</p>
+
+<p align="center">
+  <a href="https://github.com/dhushyandh">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;Cloud+Engineer;AI+Enthusiast;Building+Real-World+Software;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.E Computer Science Student
-- 💻 Passionate about Web Development
-- ⚡ Love building real-world projects
-- 🌱 Currently learning MERN Stack & AWS
-- 🎯 Goal: Become a Full Stack Developer
+- 🎓 Computer Science Engineering Student
+- 💻 Passionate about Software Engineering & Full Stack Development
+- ☁️ Learning AWS Cloud & Serverless Architecture
+- 🤖 Building AI-powered applications using LLMs & RAG
+- 📈 Interested in Cloud, AI, Backend Systems & System Design
+- 🌱 Constantly improving through real-world projects
+- ⚡ Goal: Build products that solve real-world problems
 
 ---
 
-## 🛠 Tech Stack
+## 🌟 What I'm Working On
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### Backend
-![Node.js](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+- 🤖 AI Interview Platform
+- ☁️ AWS Serverless Projects
+- 📄 AI Document Chat (RAG)
+- 🛒 SmartMart E-Commerce Platform
+- 📚 Data Structures & Algorithms
+- 🚀 Software Engineering Interview Preparation
 
 ---
 
-## 📊 GitHub Stats
+# 💻 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhushyandh&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhushyandh&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Featured Projects
-
-### 📊 Project Workspace Management ⭐
-A full-stack collaborative project management platform with task tracking, team collaboration, dashboards, and role-based access.
-
-**Tech:** React • Express.js • PostgreSQL • Clerk • Inngest
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express,fastapi,mongodb,mysql,java,python,aws,docker,git,github,postman,vscode,figma&perline=7" />
+</p>
 
 ---
 
-### 🛒 CampusCart
-A campus marketplace where students can securely buy and sell products within their institution.
+# 📋 Project Management & Collaboration
 
-**Features**
-- Student marketplace
-- Product listings
-- Department-wise filtering
-- Price range filtering
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=8"/>
+</p>
 
-**Tech:** React • Node.js • Express.js • MongoDB
+### Methodologies
 
----
+- Agile Development
+- Scrum Framework
+- SDLC
+- Sprint Planning
+- Sprint Review
+- Sprint Retrospectives
+- Requirement Analysis
+- Feature Prioritization
 
-### 🗳️ Online Voting System
-A secure web-based voting platform with authentication, digital voting, and an admin dashboard.
+### Collaboration
 
-**Features**
-- User registration & login
-- Secure online voting
-- Candidate management
-- Live election results
+- GitHub Projects
+- GitHub Issues
+- Pull Requests
+- Git Branching Strategy
+- Version Control
+- Documentation
+- Team Collaboration
 
-**Tech:** Node.js • Express.js • MongoDB • HTML • CSS • JavaScript
+### Workflow
 
----
-
-### 🌦️ Weather App
-A responsive application that provides real-time weather information using a Weather API.
-
-**Features**
-- City-based search
-- Live weather updates
-- Temperature & humidity
-- Weather conditions
-
-**Tech:** HTML • CSS • JavaScript • Weather API
-
----
-
-### ✅ To-Do List App
-A lightweight productivity application for managing daily tasks.
-
-**Features**
-- Add & delete tasks
-- Mark tasks as completed
-- Local storage support
-
-**Tech:** HTML • CSS • JavaScript
-
----
-
-### 🌐 Portfolio Website
-My personal portfolio website.
-
-Live : https://dhushyandh.me
+```text
+Requirements
+      │
+      ▼
+Planning
+      │
+      ▼
+UI/UX Design
+      │
+      ▼
+Development
+      │
+      ▼
+Testing
+      │
+      ▼
+Deployment
+      │
+      ▼
+Monitoring
+```
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
 
-- Advanced JavaScript
-- DOM Deep Dive
-- MERN Stack Development
-- AWS Cloud Basics
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhushyandh&theme=tokyo-night)
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 AI Interview Platform | AI-powered mock interview platform with resume analysis and feedback | React, FastAPI, AI |
+| 🛒 SmartMart | Full Stack MERN E-Commerce platform with authentication, payments and admin dashboard | MERN |
+| 📄 AI Document Chat | Chat with PDFs using RAG, embeddings and LLMs | Python, FastAPI |
+| 🌐 Portfolio | Personal portfolio showcasing projects and achievements | Next.js, Tailwind |
+| ☁️ AWS Cloud Projects | Serverless applications using Lambda, API Gateway & S3 | AWS |
 
 ---
 
-## 🐍 Contribution Snake
+# 📊 GitHub Analytics
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhushyandh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhushyandh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhushyandh&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-🌐 Portfolio : https://dhushyandh.me  
-💻 GitHub : https://github.com/dhushyandh  
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dhushyandh&theme=tokyonight&margin-w=15&no-frame=true"/>
+</p>
 
 ---
 
-⭐ From Dhushyandh
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhushyandh&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow,pytorch&perline=5"/>
+</p>
+
+- AWS Serverless Architecture
+- Kubernetes
+- AI Engineering
+- Retrieval-Augmented Generation (RAG)
+- System Design
+- Advanced Backend Development
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Full Stack Development
+- ✅ Master AWS Cloud
+- 🔄 Build Production-Ready AI Applications
+- 🔄 Solve 500+ LeetCode Problems
+- 🔄 Contribute to Open Source
+- 🔄 Land a Software Engineering Role
+
+---
+
+# 💭 Quote
+
+> *"Great software isn't just written—it is designed, tested, deployed, and continuously improved."*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://dhushyandh.me">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/dhushyandh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dhushyandh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dhushyandhneduncheziyan4896@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=dhushyandh&style=for-the-badge&color=blue)
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
